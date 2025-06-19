@@ -5,6 +5,3 @@ Did the initial commit!
 Making changes to this text file with these lines.
 
 This line was added directly on github
-
-this is a commit I will revert.
-
